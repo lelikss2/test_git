@@ -1,3 +1,5 @@
 public ("Hello world;")
 public ("Hello me;")
 println("Goodbye;")
+println("Goodbye;")
+print ("Hello my best friend;")
